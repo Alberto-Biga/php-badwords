@@ -28,7 +28,7 @@
         La lunghezza del paragrafo e' di <?php echo strlen($paragrafo)?> caratteri totali
     </p>  
     <p>
-        Per selezionare la parola da eliminare aggiungere all'URL "  parola=parolaScelta  "
+        Per selezionare la parola da eliminare aggiungere all'URL "  ?parola=parolaScelta  "
     </p>
      
     
